@@ -22,6 +22,11 @@ Additionally, I hope to enable **custom application layers**, moving beyond Mesh
 
 ---
 
+## 3. Repositories of this project
+
+- Layer 4: Radio_TCP -->  [Radio_TCP](https://github.com/KaliAssistant/Radio_TCP.git)
+- Layer 2.5: Radio_Mesh_Routing --> [Radio_Mesh_Routing](https://github.com/KaliAssistant/Radio_Mesh_Routing.git)
+
 ⚠️ **This repository will be updated very slowly.**  
 I can multitask, but life and other projects may take precedence.
 
