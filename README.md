@@ -28,6 +28,11 @@ Additionally, I hope to enable **custom application layers**, moving beyond Mesh
 - Layer 2.5: Radio_Mesh_Routing --> [Radio_Mesh_Routing](https://github.com/KaliAssistant/Radio_Mesh_Routing.git)
 - iptables-like FireWall : Radio_RF_TABLES --> [Radio_RF_TABLES](https://github.com/KaliAssistant/Radio_RF_TABLES.git)
 
+---
+
+### Documentation [![Wiki](https://img.shields.io/badge/Wiki-Start-blue)](https://github.com/KaliAssistant/Radio_MESHLAB/wiki/Start)
+
+---
 ⚠️ **This repository will be updated very slowly.**  
 I can multitask, but life and other projects may take precedence.
 
