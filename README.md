@@ -32,6 +32,8 @@ Additionally, I hope to enable **custom application layers**, moving beyond Mesh
 ---
 
 ### Documentation [![Wiki](https://img.shields.io/badge/Wiki-Start-blue)](https://github.com/KaliAssistant/Radio_MESHLAB/wiki/Start)
+### IMPORTANT !
+#### Please read the wiki first! -> [wiki:start](https://github.com/KaliAssistant/Radio_MESHLAB/wiki/Start)
 
 ---
 ⚠️ **This repository will be updated very slowly.**  
